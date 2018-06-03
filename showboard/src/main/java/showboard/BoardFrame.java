@@ -12,7 +12,7 @@ import javax.swing.JFrame;
  * This class is just used to load the BoardPanel. It extends JPanel and implements IBoard.
  * </p>
  * <p>
- * As the BoardPanel is a private class, BoardPanel is a Facade.
+ * As the BoardPanel is a pr ivate class, BoardPanel is a Facade.
  * </p>
  *
  * @author Anne-Emilie DIET
@@ -186,7 +186,7 @@ public class BoardFrame extends JFrame implements IBoard {
 
     /**
      * Sets the height looped.
-     *
+     *get
      * @param heightLooped
      *            the new height looped
      */
